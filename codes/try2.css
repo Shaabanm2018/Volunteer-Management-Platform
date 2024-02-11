@@ -1,0 +1,31 @@
+.join{
+	border-radius: 25px;
+	background-image: linear-gradient(to right, #e7a817, #e99b0f, #ea8d0b, #eb7f0d, #eb7012);
+	margin-left: 90px;
+	margin-bottom: 20px;
+	width: 100px;
+	height: 30px;
+}
+
+.level {
+	width : 80%;
+	padding-bottom : 1em;
+	padding-left: 10px;
+	font-family : Arial;
+	text-align : left;
+}
+
+.text {
+	width : 80%;
+	padding-bottom : 1em;
+	padding-left: 10px;
+	font-family : Arial;
+	text-align : left;
+}
+
+.time{
+	border-radius: 25px;
+	background-image: linear-gradient(to right, #e7a817, #e99b0f, #ea8d0b, #eb7f0d, #eb7012);
+	margin-left: 90px;
+	margin-bottom: 20px;
+}

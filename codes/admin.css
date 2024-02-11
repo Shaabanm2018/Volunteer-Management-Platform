@@ -1,0 +1,77 @@
+
+#overlay{
+    background-color: 	#64a5c4;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding: 10px;
+}
+
+#overlay ul li{
+    display: inline;
+    color: black;
+    margin: 5px;
+}
+
+#overlay ul li:hover{
+    background-color: lightblue;
+}
+
+
+body {
+	background-image: url('bc.jpg');
+	background-repeat: no-repeat;
+	     background-size: cover;
+	   position: relative;
+}
+
+.split {
+  /* top: 10em; */
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+
+.delete h1{
+	font-size: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 50px;
+}
+
+.delete summary{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 50px;
+}
+
+#deletelecturer, #deletestudent, #deleteadmin, #deleteevent{
+  	font-size: 100%;
+  	margin: 50px;
+    margin-top: 50px;
+
+  }
+
+#deletelecturer img, #deletestudent img, #deleteadmin img, #deleteevent img{
+  	/* float: left; */
+    position: absolute;
+  	padding-right:50px;
+  	height: 150px;
+  	width: 150px;
+  }
+
+.DelLecProf, .DelStudProf, .DelAdminProf, .DelEvent{
+    position: relative;
+    padding: 10px;
+    margin-top: 10px
+
+}
+
+
+#f{
+    background-color: #64a5c4;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: white;
+    padding: 10px;
+    margin-top: 700px;
+}

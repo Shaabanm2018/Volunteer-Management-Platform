@@ -1,0 +1,9 @@
+.join{
+	border-radius: 25px;
+	background-image: linear-gradient(to right, #e7a817, #e99b0f, #ea8d0b, #eb7f0d, #eb7012);
+	margin-left: 90px;
+	margin-bottom: 20px;
+	width: 300px;
+	color: white;
+	height: 30px;
+}
