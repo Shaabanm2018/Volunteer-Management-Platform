@@ -60,8 +60,7 @@ The system is overseen by the administrator 24/7.
 ![login_page](https://github.com/Shaabanm2018/Volunteer-Management-Platform/assets/76607364/b207dd33-07a0-44c2-8a8f-f16ceb1ef6f3)
 
 ## Home Page
-![eventlist1](https://github.com/Shaabanm2018/Volunteer-Management-Platform/assets/76607364/3edf8136-3769-4110-8881-0947910be8c3)
-
+![eventlist1](https://github.com/Shaabanm2018/Volunteer-Management-Platform/assets/76607364/cb28945d-babf-43fb-bddc-5069f760fce0)
 
 ![eventlist2](https://github.com/Shaabanm2018/Volunteer-Management-Platform/assets/76607364/7f7ba125-d8ad-449b-9406-38eafa452cab)
 
@@ -70,7 +69,6 @@ The system is overseen by the administrator 24/7.
 
 # Admin Page
 ![admin_page](https://github.com/Shaabanm2018/Volunteer-Management-Platform/assets/76607364/4b2103e3-7b16-4dac-8555-afbb48f2cd26)
-
 
 # Getting Started
 Clone the repository: git clone https://github.com/Shaabanm2018/Volunteer-Management-Platform.git
